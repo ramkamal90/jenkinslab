@@ -1,0 +1,6 @@
+print("high performance computing")
+print("devOps Engineering practice")
+print("Capstone design ")
+print("Undergraduate research in CS")
+print("career skills for IT companies")
+print("ADBMS")
